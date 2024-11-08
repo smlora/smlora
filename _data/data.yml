@@ -29,15 +29,15 @@ sidebar:
     pdf: False
 
     # Uncomment Upto line 39 if you want to add language
-    # languages: 
-    #   - idiom: English
-    #     level: Native
+    languages: 
+       - idiom: English
+         level: Native
 
     #   - idiom: French
     #     level: Professional
 
-    #   - idiom: Spanish
-    #     level: Professional
+       - idiom: Spanish
+         level: Professional
 
     # Uncomment Upto line 52 if you want to add interest
 
@@ -54,13 +54,7 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Military veteran with a passion for storytelling through data analysis. Experienced in operations optimization with a focus on policy design. Distinct proficiencies include:
-        - Programming languages and statistical software:  **Python**, **R**, **Scala**, **MATLAB**, **Stata**, **Minitab**
-        - Data visualization and presentation tools:  **Tableau**, **Power BI**, **Looker**, **Plotly/Dash**, ggplot2
-        - Data administration and ETL:  **SQL**, **Spark** (Databricks), **Hadoop** (Pig/Hive)
-        - Discrete-event simulation, operations, and logistics:  **Arena**, SimPy, simmer, **SAP ERP** (GFEBS)
-        - Experienced with cloud computing and virtual solutions:  **AWS**, MS Azure, Google Cloud
-        - Familiar with data solutions, mining, pipelines, and automation:  **Alteryx**/Knime, RapidMiner, Azure ML
+      Veteran who is detail-oriented and results driven with experience in Data Analytics and a Bachelor's degree in Applied Mathematics with a strong foundation in Finance and Computer Science. Expert in extracting actionable insights from complex datasets. Proven track record in problem-solving, leadership, and quantitative analysis across diverse roles. Adept at adapting to market changes, managing risks, and leading teams towards achieving goals. I'm eager to apply my analytical skills to contribute effectively to your team.
 
 
 education:
@@ -230,7 +224,14 @@ experiences:
         # authors: Edgar T. Irons
         # conference: "Comm. ACM 4 (1961), 51–55"
 
-# skills:
+ skills:
+        - Data Analysis & Security: Data Analysis, Data Visualization, Data Scraping, Data Importing, Data Munging/Wrangling, Anomaly Detection, Data Integrity
+        - Tools & Technologies: SQL (MySQL, Oracle, QuickSQL), Python(Jupyter Notebooks, Google Collab, Anaconda), Tableau, Power BI, Excel(Functions, Pivot tables, Macros), MATLAB, R
+        - Security & Risk Management: Financial Risk Management, Operations Risk Prevention, Fraud detection, Compliance (CFTC, Dodd-Frank), VPN, Pentest, Cyber Security, 2FA 
+        - Leadership & Communication: Team Management, Cross-Functional Collaboration, Training, Presentation Skills Additional Skills: Problem-Solving, Creativity, Adaptability, Innovation, Attention to Detail
+
+
+ 
     # title: Skills &amp; Proficiency
 
     # toolset:
