@@ -7,18 +7,18 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Dan Sadatian
-    tagline: Data Analyst | Operations Research
+    name: Steven Lora
+    tagline: Data Analyst
     avatar: profile3.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: dan@sadatian.io
+    email: steven.lora@gmail.com
     phone: False
     citizenship:
     website: False #do not add http://
-    linkedin: dansadatian
+    linkedin: smlora
     xing: False
-    github: sadatian
+    github: smlora
     telegram: # add your nickname without '@' sign
     gitlab: False
     bitbucket: False
@@ -65,29 +65,21 @@ career-profile:
 
 education:
     # title: Education and Certifications
-    - degree: M.S. Analytics — Computational Data Analytics Track
-      university: Georgia Institute of Technology
-      time: 12/2022
+    - degree: M.S. Data Analytics and Artificial Intelligence
+      university: Nova Southeastern University
+      time: 12/2025
       
     - degree: B.S. Applied Mathematics — Finance Concentration 
       university: New York City College of Technology
-      time: 05/2015
-      
-    - degree: A.S. Computer Science
-      university: New York City College of Technology
-      time: 05/2013
+      time: 0/2014
 
-    - degree: Certified ScrumMaster
-      university: Scrum Alliance
-      time: 07/2019
+    - degree: Certified Fraud Examiner
+      university: ACFE Credential ID 747207
+      time: 01/2016
 
-    - degree: Leadership and Management Development I
-      university: U.S. Army NCO Academy
-      time: 04/2019
-
-    - degree: Plan, Program, Budget, and Execution Systems
-      university: U.S. Army Financial Management School
-      time: 02/2017
+    - degree: Data Science and Machine Learning Certificate 
+      university: Massachusetts Institute of Technology
+      time: 11/2024
 
 experiences:
     # - role: M.S. in Analytics Student
@@ -99,39 +91,81 @@ experiences:
     #       - High Dimensional Data Analytics
     #       - Simulation for Operations Research
 
-    - role: M.S. in Analytics Student
-      time: 01/2020 - 12/2022
-      company: Georgia Institute of Technology
+    - role: Data Manager
+      time: 06/2024 - Current
+      company: Fairlane Financial Corporation
       details: |
-        Will be graduating with a 3.7 GPA in the Computational Data Analytics track by December 2022. Notable courses include:
-          - Data Analytics for Business: Business intelligence course specifically dealing with business management, performance, and operations data. This class heavily focused on building analytics dashboards with Tableau and Power BI.
-          - Big Data for Health Informatics: This course involves ETL and analyzing extremely large data from a variety of sources from third party APIs and Hadoop (HDFS/Pig/Hive) and Spark (RDD/SQL) connections using Scala and Python.
-          - Simulation for Operations Research: This course introduces advanced topics in process and operations analysis, queue optimization, and inventory theory through stochastic and discrete-event simulations using Arena and SimPy.
-          - High-Dimensional Data Analysis: Machine learning class that deals with more complex data. Topics include tensor decomposition, multidimensional signal processing, image processing and high-dimensional regression.
+        Responsible for data collection, organization, analysis, and storage, as well as website maintenance, technical support, budget management for technology upgrades, and communication of rate or product strategy changes to colleagues, carriers, and agents. Also tasked with developing and sending out marketing materials.
+          - Oversee data operations, including data collection, organization, analysis, and storage, ensuring high data integrity and security.
+          - Conducted comprehensive SQL queries to pull up data sets that aren’t available with our built in filters and search functions.  
+          - Analyzed datasets, resulting in actionable insights that improved marketing strategies and increased campaign effectiveness.
+          - Communicated rate changes and product strategies clearly and effectively, enhancing collaboration and alignment among colleagues, carriers, and agents.
+          - Developed and distributed targeted marketing materials.
+          - Maintained and updated the company website ensuring accurate information is displayed in a timely manner.
+          - Provided technical support and customer service, guiding agents through sales by answering product questions and assisting them with accurately filing electronic forms and application materials.
+          - Managed budgets for technology upgrades and supplies, achieving a reduction in downtime through effective and strategic planning.
 
-    - role: Financial Management Specialist (Active Duty)
-      time: 09/2015 - 09/2019
-      company: United States Army
+    - role: President/Owner
+      time: 04/2019 - 12/2023
+      company: BAD HOMBRES TRUCKING INC
       details: |
-        *Budget Analyst / Resource Manager* — Mission Command Center of Excellence (Budget Office)
-          - Worked directly with senior executives to program and execute expense accounts worth over $3.75 million. 
-          - Prepared and presented biweekly, monthly and quarterly performance and execution reports to high-ranking officers and senior executives. 
-          - Created dynamic dashboards for fiscal budgets with projections, forcasts and scenario evaluation options.
-          - Recruited and fully trained two new personnel that filled my position 3 months ahead of schedule.  
+        Accountable for contract negotiations, pricing, administrative tasks, vehicle maintenance, route planning, compliance, customer interactions, bookkeeping, and emergency preparedness, requiring a blend of differing skills, business acumen, and adaptability. 
+          - Managed fleet logistics, optimizing routes to increase profitability and minimize operational costs.
+          - Negotiated contracts with brokers and customers, securing competitive rates and expanding business volume.
+          - Optimized fleet routes, reducing operational costs and improving delivery performance by 25%.
+          - Enhanced internal communication and leadership, driving team efficiency and operational improvements.
+          - Explored and secured financing options for fleet expansion while maintaining liquidity for operational needs.
+          - Adapted quickly to disruptions and market changes, demonstrating resilience and problem-solving in high-pressure environments.
+          - Reduced operational expenses by 15% through cost-saving initiatives and preventive maintenance programs, cutting vehicle downtime by 20%.
+          - Maintained an excellent safety record and compliance rate with FMCSA regulations and standards.        
+          
+    - role: Risk Data Analyst 
+      time: 10/2014 - 02/2019
+      company: National Futures Association
+      details: |
+        *Risk Data Analyst* 
+        Responsible for the collection of Financial Risk Metrics, assessment of Financial Reports and ensuring compliance with regulations, Analysis of Data and Creating Dashboards that provided actionable insights used to prioritize audits and decision making by upper management. 
+          - Oversaw the Financial Risk Metrics of over 100 Registered Swap Dealers, consisting of Banks and Financial Institutions with OTC Derivatives trades of over 8 Billion annually.
+          - Gained proficiency in the products governed by the CFTC such as Commodities, Futures, Options and Over The Counter Derivatives.
+          - Became a subject matter expert in Financial Risk Metrics such as Market Risk, Credit Risk, Fraud Risk, Settlement Risk, Liquidity Risk and Operational Risk.
+          - Assessed Risk Exposure Reports provided by Swap Dealers, ensuring that they were in compliance with CFTC regulations & the Dodd-Frank Act.
+          - Collected and organized data, created databases and sequenced data for analysis.
+          - Used data handling software such as Microsoft Excel, SQL and Tableau to analyze risk metrics and created dashboards and presentations for management and auditing teams.
 
-        *Compliance Officer* — Combined Arms Command G8 (Finance Office) 
-          - Monitored financial internal control practices to ensure senior leaders were in compliance with fiscal rules, regulations, and procedures prescribed by DoD as well as local directives, program guidance, and fiscal budgetary policies and guidelines.
+        *Compliance Examiner*  
+          - Engaged with member firms to ensure policies and procedures demonstrate an ability to comply with CFTC regulations. 
+          - Analyzed documents submitted by member firms pursuant to implementing regulations under section 4s of the Commodity Exchange Act. 
+          - Assessed issues and drafted feedback letters. Communicated with member firms as required to assist in complying with Dodd-Frank and NFA requirements. 
+          - Updated and closed out issues as firms achieved compliance.
+
+
+    - role: Communications Technician, Sergeant
+      time: 08/2006 - 06/2014
+      company: United States Marine Corps
+      details: |
+        *Ground Communications Repair* — 6th Communications Battalion
+        Accountable for the installation, operation, and maintenance of communication systems, led teams in troubleshooting various equipment, provided technical guidance to all personnel, and ensured seamless communication flow during missions while adapting to new technologies as needed. 
+          - Achieved operational readiness rate by installing, testing, operating, and repairing complex communication systems, including two-way radio, satellite communications, and vehicle-mounted radios.
+          - Programmed Encrypted Communication Systems, ensuring secure communication protocols for mission-critical operations.
+          - Trained personnel in communication technologies, military-grade encryption, and conducted mandatory annual training in a wide range of topics including: DEI, Alcohol and Drug Abuse Awareness, SA Prevention.  
+          - Responsible for over $500,000 worth of accounted equipment.
+          - Ensured Secure Communications and data transmission for a unit of 1200 personnel.
+          - Underwent extensive background checks and held a Secret Security Clearance throughout my service.
+
+        *Quality Control and Compliance* 
+          - Developed standard operating procedures for quality control by conducting regular equipment inspections, improving the reliability of communication systems leading to a reduction of downtime. 
+          - Gave regular safety briefs and ensured that operational risk prevention protocols were followed.
           - Implemented pattern analysis methodologies into audit guidelines that increased failsafe redundancies yet reduced total audit time.  
 
-        *Logistics Specialist* — 40TH Military Police Battalion S4 (Logistics Office)
+        *Logistics Specialist* 
           - Implemented automated tracking procedures that reduced the overhead cost and manpower.
           - Identified equipment and supply requirements and prepared procurement and contracting documents for maximum mission effectiveness. 
 
-    - role: Executive Director
+    - role: Assistant Director
       time: 08/2011 - 09/2015
       company: Polysophy Inc.
       details: |
-          - Founded non-profit research organization with the mission to provide hands-on experience for STEM new graduates with a focus on studying renewable solutions.
+          - Co-Founded non-profit research organization with the mission to provide hands-on experience for new STEM graduates with a focus on studying renewable solutions.
           - Enlisted instructors from CUNY-CityTech and NYU-Polytech to serve as members of the board and volunteer advisers for the research teams. 
           - Recruited over 50 scientists and engineers to form several small dynamic research teams.
           - Secured funding and equipment to maintain 3 active research projects continuously.
